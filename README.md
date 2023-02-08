@@ -16,7 +16,7 @@ git init
 git add .
 git commit -m "initial commit"
 # add your own remote branch
-# git remote add origin git@githus.bus.zalan.do:<my-organization>/<my-repository>.git
+# git remote add origin <my-organization>/<my-repository>.git
 
 # optional install clasp globally
 npm install -g @google/clasp
