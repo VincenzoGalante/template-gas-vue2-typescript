@@ -7,7 +7,7 @@ This project requires nodejs >= 16.14.x from [nodejs.org](https://nodejs.org/en/
 
 ``` bash
 # clone this repository
-git clone git@github.bus.zalan.do:link/template-gas-vue2-typescript.git
+git clone 
 # remove .git folder
 rm -rf .git
 # init your own git repository
